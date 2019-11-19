@@ -1,5 +1,6 @@
-'use strict';
+"use strict";
 
 module.exports = {
-  extends: 'recommended'
+  enable: false,
+  extends: "recommended"
 };
